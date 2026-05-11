@@ -30,7 +30,7 @@ Real portfolio with write-ups at **[alexgkiafis.gr](https://alexgkiafis.gr)**. T
 |---|---|---|
 | Cassini Hackathon 2025 | [crowdless](https://github.com/AlexTuring010/crowdless) | 1st |
 | AI ΟΠΑ Hackathon 2026 | [crowdless](https://github.com/AlexTuring010/crowdless) + [city-simulator](https://github.com/AlexTuring010/city-simulator) | 1st |
-| Sustainable housing | [HouseFTF](https://github.com/AlexTuring010/HouseFTF) | 2nd |
+| Sustainable housing | [sustainable-housing-estimator](https://github.com/AlexTuring010/sustainable-housing-estimator) | 2nd |
 
 Honest framing (what the code does vs what the pitch did) lives in each repo's README.
 
