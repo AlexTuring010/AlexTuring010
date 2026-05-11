@@ -1,4 +1,4 @@
-# Αλέξανδρος Γκιάφης
+# Alex Gkiafis
 ### CS @ University of Athens · graduating mid-2026 · open for SWE internships
 
 Real portfolio with write-ups at **[alexgkiafis.gr](https://alexgkiafis.gr)**. This page is the table of contents.
